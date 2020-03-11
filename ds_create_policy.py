@@ -13,7 +13,7 @@ def createpolicy(fileScript):
     configuration.host = 'https://app.deepsecurity.trendmicro.com/api'
 
     # Authentication
-    configuration.api_key['api-secret-key'] = 'DB56F389-58E5-29EE-8C6B-D471DF4FC450:2B43EECC-D433-CE43-BE2B-796102EB9021:Ij8tmEzkVbY0CS2rDPszn0vycNIZBFZOsiS0Q/Jxd0c='
+    configuration.api_key['api-secret-key'] = 'apisecret'
 
     # Initialization
     # Set Any Required Values
